@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = "vezorakey@gmail.com"//process.env.sendemail //Email SMTP
 fromsendemail = "vezorakey@gmail.com"//process.env.fromsendemail // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = "hgvmbbvcqoxvhviq"//process.env.sendpwmail // Password Email SMTP
-domain = 'Api-Vzk.vercel.app'// domain website tanpa http or https
+domain = 'api-vzk.vercel.app'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
